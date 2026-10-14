@@ -1,0 +1,21 @@
+{
+  "KA01AB1234": [
+    {
+      "type": "Oil Change",
+      "cost": 1100,
+      "date": "2026-10-14"
+    },
+    {
+      "type": "Wheel Alignment",
+      "cost": 1200,
+      "date": "2026-10-14"
+    }
+  ],
+  "KA05XY9876": [
+    {
+      "type": "General",
+      "cost": 2500,
+      "date": "2026-10-14"
+    }
+  ]
+}
